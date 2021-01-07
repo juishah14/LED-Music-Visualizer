@@ -1,6 +1,6 @@
 # SE 101 Project- LED Music Visualizer + App
 
-Codebase for the LED Music Visualizer project, consisting of the Arduino code and the Flutter app. The LED Strip is connected to the Arduino Uno board and the signal transmission between the board and the app is handled by the Bluetooth module. The Bluetooth-connected app provides an interface for the user to select from 3 presets and 12 colours for the LED strip to display. The reactive preset allows for the user to select from 7 audio frequency bands for the LED strip to react to based on music connected via an aux cord to the Arduino Uno.
+Codebase for the LED Music Visualizer project, consisting of the Arduino code and the Flutter app. The LED Strip is connected to the Arduino Uno board and the signal transmission between the board and the app is handled by the Bluetooth module. The Bluetooth-connected app provides an interface for the user to select from 3 presets and 12 colours for the LED strip to display, as well as, change the brightness of the LEDs. The reactive preset allows for the user to select from 7 audio frequency bands for the LED strip to react to based on music connected via an aux cord to the Arduino Uno.
 
 ## Main Hardware Components
 
